@@ -46,7 +46,8 @@ This project implements a console-based banking system using Java and JDBC (Java
      - `email` (Primary Key): Unique email address serving as the user's identifier.
      - `password`: Password for user authentication.
 
-     ![Tables screenshort](https://imgur.com/Yn4LmH4)
+     Tables screenshort
+   ![Screenshot 2024-04-22 005831](https://github.com/shreyabhuwania/Java_Banking_System/assets/95756422/66e8fa88-2e52-46c0-91ae-be6dab13cbb9)
 
 ## Usage
 1. Clone the repository.
