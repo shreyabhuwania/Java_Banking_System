@@ -31,6 +31,8 @@ This project implements a console-based banking system using Java and JDBC (Java
 - **JDBC (Java Database Connectivity)**: Used to interact with the MySQL database, including executing SQL queries and managing database connections.
 - **MySQL**: Chosen database system for storing user and account information, providing persistence for the banking system data.
 
+![image](https://github.com/user-attachments/assets/aeebbf32-c01b-4e63-9282-161eee6244cc)
+
 ## Database Tables
 1. **"accounts"**
     **Fields**:
